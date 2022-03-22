@@ -5,7 +5,7 @@
 
 Term: Spring 2022
 
-+ Team ##
++ Team Group 10
 + Team members
 	+ Liu, Ke (kl3344)
 	+ Tang, Shiqi (st3349)
