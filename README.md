@@ -16,8 +16,8 @@ Term: Spring 2022
 + Project summary: In this project, we created ...
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. 
-	+ ff
-	+ All team members approve our work presented in this GitHub repository including this contributions statement. 
++ ff
++ + All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
