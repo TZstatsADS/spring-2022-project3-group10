@@ -7,11 +7,11 @@ Term: Spring 2022
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Liu, Ke (kl3344)
+	+ Tang, Shiqi (st3349)
+	+ Xu, Rong (rx2180)
+	+ Zha, Yvonne (lz2806)
+	+ Zheng, Haozhong (hz2694)
 
 + Project summary: In this project, we created ...
 	
