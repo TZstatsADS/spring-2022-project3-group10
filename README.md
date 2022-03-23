@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ Zha, Yvonne (lz2806)
 	+ Zheng, Haozhong (hz2694)
 
-+ Project summary: In this project, we created model1 and model2 in two methods to develop an image classification algorithm using images from CIFAR10 and improves the accuracy comparing to the baseline logistic regression model. In our main method, we built model1.
++ Project summary: In this project, we created model1 and model2 in two methods to develop an image classification algorithm using images from CIFAR10 and improves the accuracy comparing to the baseline logistic regression model. In our main method, we bulit a CNN model, which significantly improves prediction accuracy comparing to the baseline model. After adding the label correction, the performance of CNN model was promoted to some extent. As for VGG model, it also improves the prediction accuracy a lot but the label correction has little influence on it.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. 
 + All team members participated in group discussion and brainstorming session. Ke Liu, Shiqi Tang, Yvonne Zha and Haozhong Zheng mainly focus on constructing and tuning CNN models and Yvonne's model was selected to be the main model. Rong Xu developed VGG model which was chosen to be the optional model due to its performance.
