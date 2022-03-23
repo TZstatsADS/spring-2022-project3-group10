@@ -32,6 +32,10 @@ The model was trained and tested on laptop device with GPU [Nvidia Geforce GTX 1
 + Install [Nvidia cuDNN](https://developer.nvidia.com/cudnn) version 8.3.2
 + Install tensorflow
 
+**Potential bugs**:
++ No GPU device detected: If after running the first block, it is said that "No GPU device found", the rest of the code will run on CPU.
++ Out of GPU memories: We suggest run one of the VGG or CNN at a time. Since the training data set is large, the GPU may out of memories and cause errors
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
