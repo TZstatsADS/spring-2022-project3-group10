@@ -13,10 +13,10 @@ Term: Spring 2022
 	+ Zha, Yvonne (lz2806)
 	+ Zheng, Haozhong (hz2694)
 
-+ Project summary: In this project, we created model1 and model2 in two methods to develop an image classification algorithm using images from CIFAR10 and improves the accuracy comparing to the baseline logistic regression model. In our main method, we built model1...
++ Project summary: In this project, we created model1 and model2 in two methods to develop an image classification algorithm using images from CIFAR10 and improves the accuracy comparing to the baseline logistic regression model. In our main method, we built model1.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. 
-+ All team members participated in group discussion and brainstorming session. Ke Liu, Shiqi Tang, Yvonne Zha and Haozhong Zheng mainly focus on constructing and tuning CNN models and Yvonne's model was selected to be the main(optional) model1. Rong Xu developed VGG model which was chosen to be the optional(main) model1 due to its performance.
++ All team members participated in group discussion and brainstorming session. Ke Liu, Shiqi Tang, Yvonne Zha and Haozhong Zheng mainly focus on constructing and tuning CNN models and Yvonne's model was selected to be the main model. Rong Xu developed VGG model which was chosen to be the optional model due to its performance.
 	+  Ke writed the project summary and notes on github, integrated codes and files to upload, used gpu to run the code when testing model.
 	+  Shiqi made the slides of our presentation, communicated with team members to confirm details.
 	+  Yvonne built the CNN model and improved the model with label correction, proposed the method of splitting train set, validation set and test set to avoid overfitting. Also she organized the material of presentation and presented the results to the class.
