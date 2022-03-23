@@ -17,10 +17,10 @@ Term: Spring 2022
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. 
 + All team members participated in group discussion and brainstorming session. Ke Liu, Shiqi Tang, Yvonne Zha and Haozhong Zheng mainly focus on constructing and tuning CNN models and Yvonne's model was selected to be the main(optional) model1. Rong Xu developed VGG model which was chosen to be the optional(main) model1 due to its performance.
-	+  Ke writed the project summary and integrated codes and files to upload on github, 
-	+  Shiqi made the slides of our presentation.
+	+  Ke writed the project summary and notes on github, integrated codes and files to upload, used gpu to run the code when testing model.
+	+  Shiqi made the slides of our presentation, communicated with team members to confirm details.
 	+  Yvonne built the CNN model and improved the model with label correction, proposed the method of splitting train set, validation set and test set to avoid overfitting. Also she organized the material of presentation and presented the results to the class.
-	+  Rong built the VGG model, analyzed the outcome of the model,  and finished literature review to support our conclusion.
+	+  Rong built the VGG model with label correction to generate clean labels,analyzed the outcome of the model, and finished literature review to support our conclusion.
 	+  Haozhong is responsible of running the code, making use of gpu to improve efficiency, setting the environment and adding cross-validation to CNN model to make the results more robust. 
 + All team members approve our work presented in this GitHub repository including this contributions statement. 
 
